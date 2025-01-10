@@ -1,6 +1,6 @@
 {
   "name": "json-undo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight library for tracking changes in JSON objects with undo and redo functionality. Efficiently manages changes without duplicating entire objects, ideal for memory-sensitive applications.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
