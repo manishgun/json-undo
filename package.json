@@ -1,0 +1,47 @@
+{
+  "name": "json-undo",
+  "version": "1.0.0",
+  "description": "A lightweight library for tracking changes in JSON objects with undo and redo functionality. Efficiently manages changes without duplicating entire objects, ideal for memory-sensitive applications.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "undo",
+    "redo",
+    "change-tracking",
+    "history",
+    "javascript",
+    "typescript",
+    "state-management",
+    "memory-efficient",
+    "object-patching",
+    "version-control"
+  ],
+  "author": {
+    "name": "Manish Gun",
+    "email": "mail.cto.manish@gmail.com",
+    "url": "https://manishgun.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manishgun/json-undo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manishgun/json-undo/issues"
+  },
+  "homepage": "https://github.com/manishgun/json-undo#readme",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/manish-gun/",
+    "facebook": "https://www.facebook.com/okey.manish.404",
+    "instagram": "https://www.instagram.com/dev.manish_404/",
+    "x": "https://x.com/gun_manish"
+  }
+}
